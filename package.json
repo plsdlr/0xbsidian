@@ -1,0 +1,11 @@
+{
+  "name": "0xbsidian",
+  "version": "0.0.1",
+  "description": "ZkDai capable darkpool 0x relayer for Tor ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mx pl js",
+  "license": "ISC"
+}
